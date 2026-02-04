@@ -83,7 +83,9 @@ Payload: Payload, bir istekte (özellikle POST/PUT) sunucuya gönderilen asıl v
         "name": "Eren",
         "token": "abc123xyz"
         }
-
+        
 Request payload: Client → Server
 Response payload: Server → Client
+
+
 --
