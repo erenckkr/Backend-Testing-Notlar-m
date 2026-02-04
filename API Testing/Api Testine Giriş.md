@@ -85,6 +85,7 @@ Payload: Payload, bir istekte (özellikle POST/PUT) sunucuya gönderilen asıl v
         }
         
 Request payload: Client → Server
+
 Response payload: Server → Client
 
 
